@@ -805,7 +805,7 @@ div.card {
 h1 span {
   color: #40a9ff;
   background: #fcf6f6;
-  padding: 1rem 1rem;
+  padding: 0.8rem 0.8rem;
   display: table-cell;
   box-shadow: inset 0 0 10px
               #40a9ff,
